@@ -17,6 +17,8 @@ For my subsequent attempts, I began with the wires glued into the base. I then
 made a ring out of wood that had one hole for each of the glued in wires in
 order to keep them organized as I twisted them up.
 
+![]({{ site.github.url }}/assets/2013/11/earring-tree/02.jpg)
+
 After twisting up the wires a bit, I would move four wires from their individual
 holes in the ring and place them in the center of the ring. This brings these
 strands to the interior of the tree and wraps the remaining ones around them.
@@ -24,13 +26,11 @@ After another revolution, the wires can be pulled down from the middle of the
 to branch outwards from the tree. This arrangement prevents the branches from
 unwinding as they are bound up by the strands continuing to the upper levels.
 
-![]({{ site.github.url }}/assets/2013/11/earring-tree/02.jpg)
+![]({{ site.github.url }}/assets/2013/11/earring-tree/03.jpg)
 
 Once all the strands are wound and all the rungs have been created, each of the
 branches can be tightly coiled around a tapered rod. The taper helps to ease the
 process of removing it after the wire has been coiled.
-
-![]({{ site.github.url }}/assets/2013/11/earring-tree/03.jpg)
 
 ![]({{ site.github.url }}/assets/2013/11/earring-tree/04.jpg)
 
@@ -45,3 +45,7 @@ If I were to do this again, I would also make the holes in the base through
 holes and kink the wire at the end. Perhaps a hole just large enough for the
 wire to protrude through the top, and a larger hole on bottom that could receive
 the wire with a hook on the end.
+
+![]({{ site.github.url }}/assets/2013/11/earring-tree/05.jpg)
+
+![]({{ site.github.url }}/assets/2013/11/earring-tree/06.jpg)
