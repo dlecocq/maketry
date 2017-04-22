@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Planter Base
+youtube: kXb3M9WwRl4
 ---
 Erin had a couple of potted plants that for ages lived on top of make-shift
 bases. I glued up some scrap oak boards that I got from a pallet to make proper
@@ -21,3 +22,5 @@ not go so well, and led to a very uneven surface.
 One shaped, I poured a couple batches of epoxy on each, spreading it out and
 painting it on with a cheap chip brush. A couple of non-slip nubs on the bottom
 and they were functional, if more rustic than I had planned.
+
+{% include youtube.html id=page.youtube %}
