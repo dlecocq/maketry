@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blanket Chest
+youtube: qLae3Yhz5Hs
 ---
 For ages we had a large mattress pad for use with our downstairs futon. It lived
 in a giant box. On top of it went the spare blanket and sheets and pillows.
@@ -29,3 +30,5 @@ I used simple door hinges, but that makes it a little tricky to open, add things
 and close.
 
 It's also _way_ bigger than it needed to be. Live and learn.
+
+{% include youtube.html id=page.youtube %}
