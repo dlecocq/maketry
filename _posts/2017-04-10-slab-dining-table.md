@@ -162,7 +162,3 @@ a few coats of spray-on polyurethane, the table has a nice matte sheen.
 ![]({{ site.github.url }}/assets/2017/04/slab-dining-table/11.jpg)
 
 ![]({{ site.github.url }}/assets/2017/04/slab-dining-table/12.jpg)
-
-All in, the materials cost about $800. The slab itself was $250, the resin
-another $170, and the wood for the legs another $150. The remaining expenses
-include finish, sanding supplies (including some that didn't work as expected).
