@@ -17,8 +17,8 @@ title: Maketry
 description: >
   These are writeups of some of the projects that I've worked on. They're as
   much a record for nostalgia's sake as they are notes for future reference.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /maketry
+url: https://dlecocq.github.io/
 github_username: dlecocq
 permalink: /:year/:month/:day/:title.html
 
