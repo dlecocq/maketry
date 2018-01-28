@@ -15,4 +15,4 @@ slowly enough to keep it from reacting while mixing. I've tried using a spray
 bottle with the hope of distributing it relatively evenly from the beginning,
 but I'm not sure how much that helps.
 
-![]({{ site.github.url }}/assets/2015/02/bath-fizzies/01.jpg)
+![]({{ "assets/2015/02/bath-fizzies/01.jpg" | absolute_url }})

@@ -25,4 +25,4 @@ edges.
 While this picture is without finish, adding a little spray lacquer really made
 everything pop.
 
-![]({{ site.github.url }}/assets/2016/12/wood-and-resin-ring/01.jpg)
+![]({{ "assets/2016/12/wood-and-resin-ring/01.jpg" | absolute_url }})

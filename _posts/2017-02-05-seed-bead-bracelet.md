@@ -20,7 +20,7 @@ child.
 
 Still, we are both quite pleased with the result.
 
-![]({{ site.github.url }}/assets/2017/02/seed-bead-bracelet/01.jpg)
+![]({{ "assets/2017/02/seed-bead-bracelet/01.jpg" | absolute_url }})
 
 Before we revisit seed beads, I'll have to make a loom to expand the type of
 project we can work on.

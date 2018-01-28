@@ -10,33 +10,33 @@ between two layers of maple.
 One the blank was glued up, I mounted it in the smallest jaws of my chuck,
 turned one end round and reversed it:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/01.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/01.jpg" | absolute_url }})
 
 A skew chisel cleans up the corners with ease:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/02.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/02.jpg" | absolute_url }})
 
 After marking off the height of an earring, I begin shaping it:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/03.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/03.jpg" | absolute_url }})
 
 A scraper on the end rounds out the bulb:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/04.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/04.jpg" | absolute_url }})
 
 Since there will soon not be much wood supporting the piece, it's best to sand
 the bulbous end now:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/05.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/05.jpg" | absolute_url }})
 
 Finer work with the skew gets me closer to the shape I was looking for:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/06.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/06.jpg" | absolute_url }})
 
 A little bit of sanding, finish, and then gluing in an eyelet to be attached to
 an earring:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/07.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/07.jpg" | absolute_url }})
 
 Originally, I used a very fine drill bit in a pin vise to make a hole very near
 the size of the eyelet, glued in with CA glue (superglue). However, these had a
@@ -49,13 +49,13 @@ Here are some more that I made of that same vintage. These are made from some
 spalted pear wood that I got from a felled tree, and some wavy teak that I got
 from some free outdoor chairs:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/08.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/08.jpg" | absolute_url }})
 
 I made a series of these with old maple floorboards and walnut, but the maple
 was dark enough that there was not very much contrast:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/09.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/09.jpg" | absolute_url }})
 
 More walnut and maple, with a cherry accent in the middle:
 
-![]({{ site.github.url }}/assets/2013/10/teardrop-earrings-and-pendants/10.jpg)
+![]({{ "assets/2013/10/teardrop-earrings-and-pendants/10.jpg" | absolute_url }})

@@ -9,9 +9,9 @@ teach us.
 I'd knit in the round before using double-ended needles, which were a tremendous
 pain. Using circular needles made the experience far nicer.
 
-![]({{ site.github.url }}/assets/2016/06/knit-socks/01.jpg)
+![]({{ "assets/2016/06/knit-socks/01.jpg" | absolute_url }})
 
 It took me about 10 hours per sock, so it's far from particularly practical.
 Still, they came out nice and seemed to fit well.
 
-![]({{ site.github.url }}/assets/2016/06/knit-socks/02.jpg)
+![]({{ "assets/2016/06/knit-socks/02.jpg" | absolute_url }})

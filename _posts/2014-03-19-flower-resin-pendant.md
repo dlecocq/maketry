@@ -21,7 +21,7 @@ shape on the front. After some sanding, I parted it off. Since this was a
 particularly special piece, I put in the effort to sand the back as smooth as
 possible before finishing the whole piece.
 
-![]({{ site.github.url }}/assets/2014/03/flower-resin-pendant/01.jpg)
+![]({{ "assets/2014/03/flower-resin-pendant/01.jpg" | absolute_url }})
 
 I was still new to casting at the time, and I got some air bubbles, but I think
 it was well-received.

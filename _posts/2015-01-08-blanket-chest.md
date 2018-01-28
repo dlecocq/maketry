@@ -19,12 +19,12 @@ which were in turn flattened and glued together to form the top.
 The bottom was a split pane, because I wasn't sure that just a plywood bottom
 would be strong enough to hold the weight.
 
-![]({{ site.github.url }}/assets/2015/01/blanket-chest/01.jpg)
+![]({{ "assets/2015/01/blanket-chest/01.jpg" | absolute_url }})
 
 I put a breadboard on either end, being sure to only glue the center to allow
 for expansion and contraction of the top.
 
-![]({{ site.github.url }}/assets/2015/01/blanket-chest/02.jpg)
+![]({{ "assets/2015/01/blanket-chest/02.jpg" | absolute_url }})
 
 I used simple door hinges, but that makes it a little tricky to open, add things,
 and close.

@@ -14,4 +14,4 @@ the drilled-out holes.
 
 Before glueing, some light sanding and a little bit of finish and voila:
 
-![]({{ site.github.url }}/assets/2014/01/necklace-holder/01.jpg)
+![]({{ "assets/2014/01/necklace-holder/01.jpg" | absolute_url }})

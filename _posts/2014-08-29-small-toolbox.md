@@ -9,6 +9,6 @@ toolbox, I thought a smaller one would be in order.
 I decided to make one with dovetails (my first dovetails, hand-cut), and the
 handle fits in to a stop-dado in either side.
 
-![]({{ site.github.url }}/assets/2014/08/small-toolbox/01.jpg)
+![]({{ "assets/2014/08/small-toolbox/01.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2014/08/small-toolbox/02.jpg)
+![]({{ "assets/2014/08/small-toolbox/02.jpg" | absolute_url }})

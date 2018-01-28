@@ -9,7 +9,7 @@ unidentified hardwood), I mounted the glued up blank on the lathe.
 In short order I regretted choosing such hard and difficult woods! Despite the
 difficulty, eventually a mallet emerged.
 
-![]({{ site.github.url }}/assets/2014/03/turned-mallet/01.jpg)
+![]({{ "assets/2014/03/turned-mallet/01.jpg" | absolute_url }})
 
 I'd figured I'd want a mallet with substance, and while that is true, having one
 so tall makes it unnecessarily difficult to use. In the end, I shortened the

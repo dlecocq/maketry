@@ -21,4 +21,4 @@ To be honest, the whole process was a little frustrating and definitely fiddly.
 If I were to do this again, it would be with a much heavier gauge. Still, I'm
 pleased with the look of the piece.
 
-![]({{ site.github.url }}/assets/2017/05/nest-necklace/01.jpg)
+![]({{ "assets/2017/05/nest-necklace/01.jpg" | absolute_url }})

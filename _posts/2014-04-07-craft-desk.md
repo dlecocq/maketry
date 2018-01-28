@@ -17,7 +17,7 @@ gotten for free on Craigslist, and it looked like some pieces they'd tried and
 failed to plane -- the variance in thickness of a board could be as much as
 3/16"!
 
-![]({{ site.github.url }}/assets/2014/04/craft-desk/01.jpg)
+![]({{ "assets/2014/04/craft-desk/01.jpg" | absolute_url }})
 
 Once the top was flattened, I turned my attention to the legs and apron. The
 apron is mortise-and-tenoned into the legs, which are doubled-up boards made
@@ -25,9 +25,9 @@ square. I drilled holes evenly spaced through the apron to go into the top. I
 knew that I was supposed to give room for the top to expand and contract but I
 hoped with such a small desk that it wouldn't be a problem.
 
-![]({{ site.github.url }}/assets/2014/04/craft-desk/02.jpg)
+![]({{ "assets/2014/04/craft-desk/02.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2014/04/craft-desk/03.jpg)
+![]({{ "assets/2014/04/craft-desk/03.jpg" | absolute_url }})
 
 Though not pictured here, I added two supports between the two longest sides to
 support the top on either side of where the slot in the top was cut. I worried
@@ -39,7 +39,7 @@ which paper gets pulled. On one of the holes I accidentally began the hole too
 large and had to glue in a patch. Fortunately the lip of the steel cups covers
 the patch completely.
 
-![]({{ site.github.url }}/assets/2014/04/craft-desk/04.jpg)
+![]({{ "assets/2014/04/craft-desk/04.jpg" | absolute_url }})
 
 Legs are connected in pairs along the shorter side. On the side without the
 cups, a dowel is simply glued in some holes drilled in each leg. On the side
@@ -50,10 +50,10 @@ I glued in a threaded rod (it wasn't perfectly centered, and so it's a little
 touch to screw in or out). On the oppose it end, I cut a slit to accept a
 regular screwdriver to aid in removal.
 
-![]({{ site.github.url }}/assets/2014/04/craft-desk/05.jpg)
+![]({{ "assets/2014/04/craft-desk/05.jpg" | absolute_url }})
 
 When it comes time to change out the roll of paper (which won't happen for some
 time -- I got a 900' roll), the dowel is simply unscrewed and the new roll
 added.
 
-![]({{ site.github.url }}/assets/2014/04/craft-desk/06.jpg)
+![]({{ "assets/2014/04/craft-desk/06.jpg" | absolute_url }})

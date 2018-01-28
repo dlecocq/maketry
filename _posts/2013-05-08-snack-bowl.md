@@ -23,9 +23,9 @@ slipped, giving me 13 stitches in my left hand from wrist to thumb, leaving two
 of my fingers numb to virtually all feeling. I was very lucky that this was not
 worse.
 
-![]({{ site.github.url }}/assets/2013/05/snack-bowl/01.jpg)
+![]({{ "assets/2013/05/snack-bowl/01.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2013/05/snack-bowl/02.jpg)
+![]({{ "assets/2013/05/snack-bowl/02.jpg" | absolute_url }})
 
 Despite the fact that this was modest cottonwood, this particular bowl has
 surprising figure and curl.

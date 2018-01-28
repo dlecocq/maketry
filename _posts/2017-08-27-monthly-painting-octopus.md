@@ -16,4 +16,4 @@ One thing I dislike about this one is that there's a very obvious seam where the
 tentacles meet the body. I'm not sure how to better blend those transitions, but
 perhaps practice will help.
 
-![]({{ site.github.url }}/assets/2017/08/monthly-painting-octopus/01.jpg)
+![]({{ "assets/2017/08/monthly-painting-octopus/01.jpg" | absolute_url }})

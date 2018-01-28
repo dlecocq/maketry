@@ -11,6 +11,6 @@ middle, though I did make them in a standard size.
 The most difficult part of this project was the fact that because they were so
 long and thin, there was a great deal of vibration and flexing.
 
-![]({{ site.github.url }}/assets/2015/12/drumsticks/01.jpg)
+![]({{ "assets/2015/12/drumsticks/01.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2015/12/drumsticks/02.jpg)
+![]({{ "assets/2015/12/drumsticks/02.jpg" | absolute_url }})

@@ -10,7 +10,7 @@ proved to be very pleasing. I put a plywood board on the wall after several
 coats of shellac (to make it easier for dust to be brushed away) so that holders
 could be mounted in any spot.
 
-![]({{ site.github.url }}/assets/2016/10/custom-tool-holders/01.jpg)
+![]({{ "assets/2016/10/custom-tool-holders/01.jpg" | absolute_url }})
 
 My favorite holder is one that holds the front and back of my jointer plane. The
 bottom settles into a groove in the holder. The holders extend over the plane

@@ -10,4 +10,4 @@ brush strokes aren't apparent, they are certainly visible if you look for them.
 I'm not sure if that adds to the aesthetic appeal or whether it would have been
 better to use a gold spray paint.
 
-![]({{ site.github.url }}/assets/2015/06/painted-frame/01.jpg)
+![]({{ "assets/2015/06/painted-frame/01.jpg" | absolute_url }})

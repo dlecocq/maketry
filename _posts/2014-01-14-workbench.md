@@ -13,17 +13,17 @@ to glue up such a wide piece, so I used some that I borrowed from my local tool
 library. During this process I had to take care to align all the slots for bench
 dogs, and for the double-tenon legs.
 
-![]({{ site.github.url }}/assets/2014/01/workbench/01.jpg)
+![]({{ "assets/2014/01/workbench/01.jpg" | absolute_url }})
 
 Once the top was dry, I glued in the legs. One or two took quite a bit of
 'convincing.'
 
-![]({{ site.github.url }}/assets/2014/01/workbench/02.jpg)
+![]({{ "assets/2014/01/workbench/02.jpg" | absolute_url }})
 
 The double tenons weren't all perfect, but they came out extremely
 strong.
 
-![]({{ site.github.url }}/assets/2014/01/workbench/03.jpg)
+![]({{ "assets/2014/01/workbench/03.jpg" | absolute_url }})
 
 As for the flattening, I first had ambitions of flattening it with hand planes.
 However, the grain was so difficult and my irons not sharp enough (I had a long
@@ -31,13 +31,13 @@ way to go on my sharpening process), that I needed to resort to other methods.
 I made a trolley and flattened it with the router, riding the tram across two
 flat boards made to be parallel.
 
-![]({{ site.github.url }}/assets/2014/01/workbench/04.jpg)
+![]({{ "assets/2014/01/workbench/04.jpg" | absolute_url }})
 
 The finish is not so smooth with this process, but it is easily mended with some
 sanding.
 
-![]({{ site.github.url }}/assets/2014/01/workbench/05.jpg)
+![]({{ "assets/2014/01/workbench/05.jpg" | absolute_url }})
 
 In the end, it came out very nice, and sturdy.
 
-![]({{ site.github.url }}/assets/2014/01/workbench/06.jpg)
+![]({{ "assets/2014/01/workbench/06.jpg" | absolute_url }})

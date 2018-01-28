@@ -25,4 +25,4 @@ It was very difficult to get it to look nice and smooth -- there's a real art to
 it, apparently -- but in the end, it works, it's functional, and that's all I
 needed it to be.
 
-![]({{ site.github.url }}/assets/2017/05/driveway-expansion-joints/01.jpg)
+![]({{ "assets/2017/05/driveway-expansion-joints/01.jpg" | absolute_url }})

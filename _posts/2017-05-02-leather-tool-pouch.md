@@ -15,10 +15,10 @@ with one direction of the knurling and a second pass in the other direction.
 Once cleaned, I wanted a place to keep them all together, so I made this quick
 little leather pouch to keep them in.
 
-![]({{ site.github.url }}/assets/2017/05/leather-tool-pouch/01.jpg)
+![]({{ "assets/2017/05/leather-tool-pouch/01.jpg" | absolute_url }})
 
 The corners are a bit too square, and the flap is wider than I would have liked.
 If I were to do it all over again, I'd probably make the flap taper from the
 fold to the snap, and sew the thing inside out.
 
-![]({{ site.github.url }}/assets/2017/05/leather-tool-pouch/02.jpg)
+![]({{ "assets/2017/05/leather-tool-pouch/02.jpg" | absolute_url }})

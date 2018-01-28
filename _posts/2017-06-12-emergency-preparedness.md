@@ -24,7 +24,7 @@ with the bowl), and water heater. I also included instructions about how to make
 use of the water in the water heater, as well as several sterilization
 protocols in addition to the lifestraw I put in my kit.
 
-![]({{ site.github.url }}/assets/2017/06/emergency-preparedness/01.jpg)
+![]({{ "assets/2017/06/emergency-preparedness/01.jpg" | absolute_url }})
 
 I also included many of the common things recommended for such a kit -
 flashlights, batteries, first aid kits, radio, multitool, and so on. Since I

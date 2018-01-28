@@ -9,7 +9,7 @@ holding photos.
 I thought it would be a fun project and would be good for craft fairs. In the
 end, it proved to be very difficult and time-consuming. But they did look neat.
 
-![]({{ site.github.url }}/assets/2013/11/ant-photo-holder/01.jpg)
+![]({{ "assets/2013/11/ant-photo-holder/01.jpg" | absolute_url }})
 
 If I were to do this again, I would use thicker-gauge aluminum wire. The kind I
 used was for mending fences and wasn't quite strong enough to be what I wanted.

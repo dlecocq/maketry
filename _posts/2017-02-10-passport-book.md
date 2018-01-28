@@ -9,4 +9,4 @@ clasp to close it all up.
 
 I burned in a map of the world just to keep with the theme.
 
-![]({{ site.github.url }}/assets/2017/02/passport-book/01.jpg)
+![]({{ "assets/2017/02/passport-book/01.jpg" | absolute_url }})

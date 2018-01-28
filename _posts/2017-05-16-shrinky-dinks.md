@@ -8,7 +8,7 @@ a couple years ago, they sounded like a lot of fun.
 We tried a few pieces free-hand, which was fun, but it was also really fun to
 miniaturize some favorite characters from books.
 
-![]({{ site.github.url }}/assets/2017/05/shrinky-dinks/01.jpg)
+![]({{ "assets/2017/05/shrinky-dinks/01.jpg" | absolute_url }})
 
 We used sharpie markers, and what worked best for us was to draw the outlines
 on the front (I'd usually trace something from a book), and then my daughter
@@ -16,7 +16,7 @@ could color it in from behind. Fun fact, this is also how it used to work in
 animation -- the animators would animate the outlines and then other workers
 would paint the transparencies in from behind.
 
-![]({{ site.github.url }}/assets/2017/05/shrinky-dinks/02.jpg)
+![]({{ "assets/2017/05/shrinky-dinks/02.jpg" | absolute_url }})
 
 In the future, I'd like to figure out how to better flatten them as they cool,
 and to use a hole punch to be able to make little earrings and findings for

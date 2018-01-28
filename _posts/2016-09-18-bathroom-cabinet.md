@@ -11,19 +11,19 @@ local cabinet maker. The sides, top and bottom are mitered together, and the
 center two shelves are dadoed into the sides. Once glued up, I was able to apply
 some thin strips as edge-banding.
 
-![]({{ site.github.url }}/assets/2016/09/bathroom-cabinet/01.jpg)
+![]({{ "assets/2016/09/bathroom-cabinet/01.jpg" | absolute_url }})
 
 The door is made from an anonymous hardwood rails and stiles. The center panel
 is a piece of 3/16" plywood that I got from the same cabinetmaker.
 
-![]({{ site.github.url }}/assets/2016/09/bathroom-cabinet/02.jpg)
+![]({{ "assets/2016/09/bathroom-cabinet/02.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2016/09/bathroom-cabinet/03.jpg)
+![]({{ "assets/2016/09/bathroom-cabinet/03.jpg" | absolute_url }})
 
 After everything was sanded, glued, I stained the whole thing black and finished
 it with several coats of polyurethane. I used four L-brackets on the middle two
 shelves to attach it securely to two studs.
 
-![]({{ site.github.url }}/assets/2016/09/bathroom-cabinet/04.jpg)
+![]({{ "assets/2016/09/bathroom-cabinet/04.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2016/09/bathroom-cabinet/05.jpg)
+![]({{ "assets/2016/09/bathroom-cabinet/05.jpg" | absolute_url }})

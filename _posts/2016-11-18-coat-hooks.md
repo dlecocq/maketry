@@ -14,8 +14,8 @@ I marked out holes to space them out evenly, and between them I added holes to
 receive screws. We have plaster walls, and I've always found it very secure to
 screw things directly to the wall, provided I can screw it into the lath.
 
-![]({{ site.github.url }}/assets/2016/11/coat-hooks/01.jpg)
+![]({{ "assets/2016/11/coat-hooks/01.jpg" | absolute_url }})
 
 Finally, I have space for my _own_ things.
 
-![]({{ site.github.url }}/assets/2016/11/coat-hooks/02.jpg)
+![]({{ "assets/2016/11/coat-hooks/02.jpg" | absolute_url }})

@@ -20,4 +20,4 @@ polished further with polishing compound (which perhaps we should do with
 these). It was certainly interesting to see the transformation from jagged
 stones to this.
 
-![]({{ site.github.url }}/assets/2017/04/rock-polishing/01.jpg)
+![]({{ "assets/2017/04/rock-polishing/01.jpg" | absolute_url }})

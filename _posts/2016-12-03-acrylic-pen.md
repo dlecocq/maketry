@@ -18,4 +18,4 @@ which had to be cooled and sanded back from the beginning. So be careful to not
 overheat the blank. Some people use micromesh cooled in water to polish up their
 acrylic pen blanks, and I think that's what I'll do in the future as well.
 
-![]({{ site.github.url }}/assets/2016/12/acrylic-pen/01.jpg)
+![]({{ "assets/2016/12/acrylic-pen/01.jpg" | absolute_url }})

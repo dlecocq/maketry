@@ -17,9 +17,9 @@ glycerin mix, though I should have added it at the same time as the soap, and
 probably between the two layers -- because I'd already swirled them, I couldn't
 afford to swirl much more without risking mixing the colors.
 
-![]({{ site.github.url }}/assets/2016/11/soap-again/01.jpg)
+![]({{ "assets/2016/11/soap-again/01.jpg" | absolute_url }})
 
 It didn't come out as well as I'd hoped (the mica is hardly visible), but I
 suppose it could have gone worse.
 
-![]({{ site.github.url }}/assets/2016/11/soap-again/02.jpg)
+![]({{ "assets/2016/11/soap-again/02.jpg" | absolute_url }})

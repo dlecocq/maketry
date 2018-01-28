@@ -7,7 +7,7 @@ very vividly from my childhood. When I first got it, it hadn't been used in
 about 10 years and the blade that was in it was very much worse for the wear. I
 thought it a good occasion to make a few tools from the blade.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/01.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/01.jpg" | absolute_url }})
 
 # Squares
 
@@ -43,9 +43,9 @@ my time sanding.
 Despite all the frustration, I did end up with two beautiful (and perfectly
 square) tools.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/02.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/02.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/03.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/03.jpg" | absolute_url }})
 
 # Marking Knife
 
@@ -57,9 +57,9 @@ Drilling the holes for the pins went a little more smoothly given the lessons
 learned from the squares, but was still time-consuming. Some slightly shaped
 scales, pins, epoxy and sanding, and I had a nice new marking gauge.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/04.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/04.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/05.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/05.jpg" | absolute_url }})
 
 # Awl
 
@@ -73,7 +73,7 @@ allow the workpiece to cool as you do.
 The handle itself was simple enough. After turning the side nearest the blade,
 I mounted it on a jam chuck to finish the end of the handle.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/06.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/06.jpg" | absolute_url }})
 
 # Card Scraper
 
@@ -83,9 +83,9 @@ putting a nice contour on the last one. In practice, however, it is of course
 quite stiff and not really practical. I did make pretty holder for it, so I
 suppose it can enjoy its obsolescence in style.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/07.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/07.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/08.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/08.jpg" | absolute_url }})
 
 # Bevel Gauge
 
@@ -98,7 +98,7 @@ also got a pin.
 
 Both sides were sanded round, centered around the bold and the pin respectively.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/09.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/09.jpg" | absolute_url }})
 
 # Knife
 
@@ -128,6 +128,6 @@ It was a lot of work, especially to get all the scratch marks removed
 everywhere, but the result is better than I had originally thought I was capable
 of. So few projects turn out that way.
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/10.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/10.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2014/06/table-saw-blade-tools/11.jpg)
+![]({{ "assets/2014/06/table-saw-blade-tools/11.jpg" | absolute_url }})

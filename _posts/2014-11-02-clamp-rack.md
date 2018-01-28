@@ -17,4 +17,4 @@ This board got glued and screwed to a backer-board, and some triangular pieces
 were glued and screwed to support the top part. After screwing the assembly to
 the wall and letting the glue dry, it was ready to be loaded up!
 
-![]({{ site.github.url }}/assets/2014/11/clamp-rack/01.jpg)
+![]({{ "assets/2014/11/clamp-rack/01.jpg" | absolute_url }})

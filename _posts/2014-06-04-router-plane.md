@@ -25,4 +25,4 @@ in place. A little more sanding, some finish, and the body of the plane is done.
 I ground the hex key on the disk sander very carefully, cooling it regularly to
 keep from ruining its temper.
 
-![]({{ site.github.url }}/assets/2014/06/router-plane/01.jpg)
+![]({{ "assets/2014/06/router-plane/01.jpg" | absolute_url }})

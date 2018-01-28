@@ -17,6 +17,6 @@ The boxes are mitered, given iron-on edge banding and then dyed black and
 finished with wipe-on polyurethane. While I was batching these out from some
 free-from-Craigslist plywood, I made a sixth for the bathroom.
 
-![]({{ site.github.url }}/assets/2017/02/box-shelves/01.jpg)
+![]({{ "assets/2017/02/box-shelves/01.jpg" | absolute_url }})
 
-![]({{ site.github.url }}/assets/2017/02/box-shelves/02.jpg)
+![]({{ "assets/2017/02/box-shelves/02.jpg" | absolute_url }})

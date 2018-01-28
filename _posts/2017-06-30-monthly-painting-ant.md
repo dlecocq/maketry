@@ -21,4 +21,4 @@ an episode of a TV show.
 This month's contribution is an ant. Definitely informed by my recent struggles
 with ants.
 
-![]({{ site.github.url }}/assets/2017/06/monthly-painting-ant/01.jpg)
+![]({{ "assets/2017/06/monthly-painting-ant/01.jpg" | absolute_url }})

@@ -11,4 +11,4 @@ sturdier. The only difficult thing with this instance was that the fence was
 close enough to the house that it made it a little precarious to get up to full
 height on the ladder.
 
-![]({{ site.github.url }}/assets/2017/04/gutter-fix/01.jpg)
+![]({{ "assets/2017/04/gutter-fix/01.jpg" | absolute_url }})

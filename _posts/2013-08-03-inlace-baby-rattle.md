@@ -25,4 +25,4 @@ they are turned even with the surface. Successively finer stones are used to
 fill in the gaps, saturated with CA glue (superglue) until the final shape can
 be turned, sanded and polished.
 
-![]({{ site.github.url }}/assets/2013/08/inlace-baby-rattle/01.jpg)
+![]({{ "assets/2013/08/inlace-baby-rattle/01.jpg" | absolute_url }})

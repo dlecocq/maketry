@@ -21,4 +21,4 @@ be approximately the shape of an egg bottom, but the egg should rest on the lip,
 and not on the bottom. This provides the best support. Once the top is cupped
 out, the full profile can be carved.
 
-![]({{ site.github.url }}/assets/2014/09/egg-holder-redux/01.jpg)
+![]({{ "assets/2014/09/egg-holder-redux/01.jpg" | absolute_url }})

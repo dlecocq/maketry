@@ -11,9 +11,9 @@ legs connect to the apron with cross-dowels / knock-down bolts, and the apron
 connects to the top with screws. Ideally the top would be more free to expand,
 but so far there haven't been any problems (fingers crossed).
 
-![]({{ site.github.url }}/assets/2014/07/kitchen-table/01.jpg)
+![]({{ "assets/2014/07/kitchen-table/01.jpg" | absolute_url }})
 
 All the aprons are numbered with the leg they attach to so that it's clear how
 to reassmble it.
 
-![]({{ site.github.url }}/assets/2014/07/kitchen-table/02.jpg)
+![]({{ "assets/2014/07/kitchen-table/02.jpg" | absolute_url }})

@@ -14,7 +14,7 @@ doesn't fall through the hole. Before turning the dome shape, I evenly spaced
 holes to accept the markers. Then I could mount it on the lathe and turn the top
 into a gentle dome before sanding, finishing.
 
-![]({{ site.github.url }}/assets/2016/12/marker-holder/01.jpg)
+![]({{ "assets/2016/12/marker-holder/01.jpg" | absolute_url }})
 
 __Update 2017-04-24__: While does _look_ nice, with so little clearance between
 markers, it's difficult for an adult to use, let alone a child. The markers are
