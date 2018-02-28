@@ -1,0 +1,8 @@
+{% capture url %}assets/{{ include.page.date | date: '%Y/%m' }}/{{ include.page.slug }}/{{ include.id }}{% endcapture %}
+
+<figure>
+  <a href="{{ url | absolute_url }}">
+    <img src="{{ url | absolute_url }}" alt="{{ include.alt }}"/>
+  </a>
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
