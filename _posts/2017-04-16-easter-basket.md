@@ -18,37 +18,37 @@ one and decided to make one out of leather.
 I first cut out the pattern, giving each of the flaps a contour after
 establishing the geometry.
 
-![]({{ "assets/2017/04/leather-basket/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 With that in place, I was able to verify that the layout was roughly correct. To
 make the button holds, I cut two holes on either end of a line I marked, then
 connected the two with cuts.
 
-![]({{ "assets/2017/04/leather-basket/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 Then came the sketching and burning in the design, taking care to clear all the
 folds and flaps.
 
-![]({{ "assets/2017/04/leather-basket/03.jpg" | absolute_url }})
-![]({{ "assets/2017/04/leather-basket/04.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
+{% include image.html page=page id='04.jpg' %}
 
 When dyeing this, I substantially diluted the dye with rubbing alcohol, and
 wetted the leather considerably in hopes of getting a more even dye. I also
 chose to use cloth rather than a dauber, and while it come out more even than
 I'm used to, it was still not as even as I'd hoped.
 
-![]({{ "assets/2017/04/leather-basket/05.jpg" | absolute_url }})
+{% include image.html page=page id='05.jpg' %}
 
 Once dry, I could carefully paint in the details.
 
-![]({{ "assets/2017/04/leather-basket/06.jpg" | absolute_url }})
-![]({{ "assets/2017/04/leather-basket/07.jpg" | absolute_url }})
-![]({{ "assets/2017/04/leather-basket/08.jpg" | absolute_url }})
-![]({{ "assets/2017/04/leather-basket/09.jpg" | absolute_url }})
-![]({{ "assets/2017/04/leather-basket/10.jpg" | absolute_url }})
+{% include image.html page=page id='06.jpg' %}
+{% include image.html page=page id='07.jpg' %}
+{% include image.html page=page id='08.jpg' %}
+{% include image.html page=page id='09.jpg' %}
+{% include image.html page=page id='10.jpg' %}
 
 I applied neatsfoot oil to keep it soft and resolene to protect it. When sewing
 on the button, I used a spacer to ensure that there would be room between the
 button and leather to accommodate the flaps and the hand strap.
 
-![]({{ "assets/2017/04/leather-basket/11.jpg" | absolute_url }})
+{% include image.html page=page id='11.jpg' %}

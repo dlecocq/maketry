@@ -8,7 +8,7 @@ how useful it would be to have drawers in it. Not only that, but when planing
 boards, it had a tendency to jump around quite bit, and I wanted to add some
 weight to it.
 
-![]({{ "assets/2014/04/workbench-drawers/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I bought some playground sand from a local hardware store, added a plywood
 bottom to the bench and filled up some job site garbage bags full of sand to
@@ -29,13 +29,13 @@ The drawer slides on the sides are screwed in, but since the center ones compete
 for real estate with each other, I just put bolts through one, the center
 divider, and then the other.
 
-![]({{ "assets/2014/04/workbench-drawers/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 With the drawers in place, I could cut up the single panel for the front, and
 and then all of the drawer fronts out of it. This made it so that the grain
 matches across the whole front.
 
-![]({{ "assets/2014/04/workbench-drawers/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
 
 The handles are just cut from pine 2x4's, first cutting a rabbet out of one
 corner, then a miter to give the top a nice slope, and then two more miters to

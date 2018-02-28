@@ -19,4 +19,4 @@ mycologically-minded berry-picking coworker told me about
 for setting up, rather than sugar. As a result, we can make jam with no added
 refined sugar, though we do add apple juice concentrate for sweetening.
 
-![]({{ "assets/2015/08/blackberry-jam/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

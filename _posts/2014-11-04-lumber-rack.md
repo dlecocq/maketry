@@ -21,4 +21,4 @@ less than I do.
 The design was very space-efficient, inexpensive, and provides as much storage
 as a shop my size could need.
 
-![]({{ "assets/2014/11/lumber-rack/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

@@ -14,7 +14,7 @@ I'd just watched a video from [Sea Lemon](https://www.youtube.com/watch?v=9tZPmz
 about tie-dye and figured that would be a good way to salvage this endeavor. I
 had plenty of Rit dye on hand, so we wet about preparing to do some tie-dye.
 
-![]({{ "assets/2017/07/tie-dye-sheets/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 We had two sheets, so we chose to try both the spiral and heart methods. The
 heart pattern turned out to be much easier than I had anticipated, and the swirl
@@ -28,7 +28,7 @@ found it rewarding.
 I followed the post-dye instructions, washing out the dye, boiling it, setting
 it out in the sun, etc., and was encouraged by the early results.
 
-![]({{ "assets/2017/07/tie-dye-sheets/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 They did, however, fade quite a bit. The patterns are definitely still there and
 obvious, but they're more of a pastel color at this point. In the future, I plan
@@ -36,4 +36,4 @@ to give Procion dyes a shot, set with soda ash. I guess most people are wary of
 working with chemicals, and like the convenience and simplicity of Rit. However,
 I would prefer brighter colors.
 
-![]({{ "assets/2017/07/tie-dye-sheets/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}

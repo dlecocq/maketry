@@ -10,10 +10,10 @@ I dislike big gaudy frames, and wanted to make something simple, strong. Since
 they were for paintings, the recess had to be quite a bit deeper than normal to
 accommodate the thickness of the canvas' frame.
 
-![]({{ "assets/2014/05/simple-frames/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I added splines to the corners to provide the real strength.
 
-![]({{ "assets/2014/05/simple-frames/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
-![]({{ "assets/2014/05/simple-frames/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}

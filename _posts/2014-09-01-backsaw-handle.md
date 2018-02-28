@@ -9,7 +9,7 @@ I based it heavily on the profile from the original handle. This made me more
 confident that the geometry would be right -- the angle of the handle, space for
 the bolts. This one, however, was done without any power tools.
 
-![]({{ "assets/2014/09/backsaw-handle/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I cut the basic profile with a coping saw, refined it with a rasp. Once the
 profile was perfect, I marked the same distance in from the edge around the
@@ -20,4 +20,4 @@ scratches.
 So much sanding. The most effective tool here is abranet, as it's flexible and
 was amenable to being pulled around all the curves.
 
-![]({{ "assets/2014/09/backsaw-handle/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

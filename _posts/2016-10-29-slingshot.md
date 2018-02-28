@@ -19,6 +19,6 @@ sanding, and eventually finishing with polyurethane.
 I've yet to make a leather pocket to put a payload and add a rubber band, but
 I'm excited about the prospect.
 
-![]({{ "assets/2016/10/slingshot/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
-![]({{ "assets/2016/10/slingshot/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

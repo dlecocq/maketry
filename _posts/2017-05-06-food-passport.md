@@ -32,7 +32,7 @@ which foods went in on what printed pages since they were printed double-sided
 and then bound as a single signature. Once printed, I cut the pages out, folded
 them, added a cover, and sewed them up.
 
-![]({{ "assets/2017/05/food-passport/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 For the cover, I wanted something seemingly ornate, but I didn't want to spend
 a lot of time on it. I had some gold acrylic paint and a stamp that I found in
@@ -40,6 +40,6 @@ our miscellaneous craft supplies, which worked pretty well. I put too much paint
 on the stamp, so it slipped around a little while actually stamping and the
 excess accumulated at the edges.
 
-![]({{ "assets/2017/05/food-passport/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 When she tries any of these foods, she gets a stamp.

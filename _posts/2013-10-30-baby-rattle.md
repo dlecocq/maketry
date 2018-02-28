@@ -14,4 +14,4 @@ was being glued in.
 
 The piece overall was meant to be reminiscent of a pawn in chess.
 
-![]({{ "assets/2013/10/baby-rattle/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

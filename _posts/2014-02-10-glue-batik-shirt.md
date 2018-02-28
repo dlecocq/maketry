@@ -7,7 +7,7 @@ batik, for Valentine's Day, I had Madeline help me make a shirt for Erin. It
 featured some of Madeline's favorite phrases at the time, and a couple of hand
 prints.
 
-![]({{ "assets/2014/02/glue-batik-shirt/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 The batik resist process worked very well, but the Rit dye we used washed out
 quite a bit once rinsed.

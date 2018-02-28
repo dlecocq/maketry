@@ -12,7 +12,7 @@ could fold the iron up to fit my table saw. I then carefully marked where I
 needed holes to attach it to the table, and bolted it down making it as even
 with the table as possible.
 
-![]({{ "assets/2016/09/router-table-wing/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 With that complete, I glued up two pieces of 5/8" baltic birch plywood to be the
 table itself. To bring the total thickness to the right level, I glued a 2"
@@ -24,9 +24,9 @@ The top was designed so to have a small lip that would rest on the top edge of
 the angle irons. Then a recess to accept a plate (onto which a router can be
 mounted) was routed out on the top.
 
-![]({{ "assets/2016/09/router-table-wing/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
-![]({{ "assets/2016/09/router-table-wing/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
 
 Eventually I will be building a dedicated router lift from the plans from
 [Matthias Wandel](https://woodgears.ca/router_lift/version1.html).

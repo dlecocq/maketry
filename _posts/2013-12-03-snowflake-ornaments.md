@@ -15,12 +15,12 @@ all the snowflakes from the snowflake extrusion, I used my disk sander to sand
 them all rather than a palm sander. While it did make it go much faster, it
 still took a long time and I lost a couple of fingertips in the process.
 
-![]({{ "assets/2013/12/snowflake-ornaments/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 All in all I made about 150 in various different shapes. I finished these with
 water-based polyurethane with a brush, but I would certainly recommend using a
 spray in the future.
 
-![]({{ "assets/2013/12/snowflake-ornaments/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
-![]({{ "assets/2013/12/snowflake-ornaments/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}

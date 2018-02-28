@@ -6,7 +6,7 @@ My mother has a portrait of her grandfather done in stipple. It's a really
 beautiful style, and one I had never experimented with, so for a present for
 my mother, I thought she'd enjoy a portrait of her father in the same fashion.
 
-![]({{ "assets/2017/11/stippled-portrait/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I used watercolor paper as I liked the texture and it's what I had on hand. I
 thought about using the smoother back side of the paper, but I feared it might

@@ -15,7 +15,7 @@ functionally impossible to accomplish -- when forced near each other in that
 orientation, they were extremely unstable. Even a slight perturbation would send
 them all flying rather forcefully.
 
-![]({{ "assets/2015/01/magnetic-knife-holder/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 In the end, I was able to get something that worked. If I recall correctly, I
 ended setting them in with their poles alternating. It wasn't the most stable

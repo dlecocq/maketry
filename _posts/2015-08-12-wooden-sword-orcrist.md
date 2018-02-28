@@ -14,6 +14,6 @@ spokeshaves to get the bevels just right. The other embellishments were made
 from sandwiched pieces of walnut. It took a lot of delicate cutting, shaping to
 make sure that all the pieces matched up the way they were supposed to.
 
-![]({{ "assets/2015/08/wooden-sword-orcrist/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
-![]({{ "assets/2015/08/wooden-sword-orcrist/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

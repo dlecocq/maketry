@@ -9,4 +9,4 @@ clasp to close it all up.
 
 I burned in a map of the world just to keep with the theme.
 
-![]({{ "assets/2017/02/passport-book/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

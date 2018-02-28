@@ -18,7 +18,7 @@ Instead, I put down some rubber cement on a piece of paper and managed to get
 one trapped in it, which then allowed me to get close enough with the macro lens
 to take this shot:
 
-![]({{ "assets/2017/06/ant-identification/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 Based on their erratic movements, the number of nodes, their size, their lack of
 worker size polymorphism, my best guess is a variety of crazy ant. Fortunately,

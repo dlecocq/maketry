@@ -16,9 +16,9 @@ Screwed to the studs, I attached some 5/8" baltic birch plywood shelves. I added
 an upright on the end of each shelf. A dado in the side receives the glued-in
 shelf.
 
-![]({{ "assets/2015/12/office-shelves/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 This has been a really helpful development, as it provides a huge amount of
 storage. It's finished in a few coats of shellac.
 
-![]({{ "assets/2015/12/office-shelves/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

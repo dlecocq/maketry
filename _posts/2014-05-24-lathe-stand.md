@@ -27,6 +27,6 @@ collecting dust, so I furred out the frame to allow me to attach panels to the
 sides and back. The front would hinge open, the angle of the front working to
 keep it closed.
 
-![]({{ "assets/2014/05/lathe-stand/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 It ended up being very sturdy and surprisingly capacious.

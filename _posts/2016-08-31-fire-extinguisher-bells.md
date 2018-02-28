@@ -24,19 +24,19 @@ hand, or even using acetone to dissolve it, but the angle grinder was definitely
 the way to go. Once finished, it got several coats of clear lacquer to protect
 against developing a patina.
 
-![]({{ "assets/2016/08/fire-extinguisher-bells/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 Another I left with just its original coating. I had some stray marks with
 sharpie, which I was able to mostly remove with acetone. However, the solvent
 had an effect on the paint as well, making it more matte in the areas I rubbed
 down.
 
-![]({{ "assets/2016/08/fire-extinguisher-bells/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 The third one got coated with a spray paint designed to look like hammered
 metal. This, by far, was my favorite finish.
 
-![]({{ "assets/2016/08/fire-extinguisher-bells/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
 
 To attach them to a hook, I got bottle stoppers that fit snugly in the top and
 drilled a hole in each to receive an eyelet. In fact, a large fender washer goes

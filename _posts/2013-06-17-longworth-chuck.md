@@ -19,13 +19,13 @@ sometimes expensive, and requires changing out the jaws on a chuck. Australian
 woodturner Leslie Douglas Longworth came up with the idea for the so-called
 [Longworth chuck](http://ravenview.com/blog/2010/10/17/how-to-make-a-longworth-chuck/).
 
-![]({{ "assets/2013/06/longworth-chuck/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 While this was a cheap way to make a chuck for finishing the bottom of bowls,
 I found it to be very fiddly. I've never used cole jaws, but I would imagine
 that they're more precise.
 
-![]({{ "assets/2013/06/longworth-chuck/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 If making this, when it comes time to drill through the rubber stoppers, leave
 them in the freezer for several hours before doing so -- that will greatly ease

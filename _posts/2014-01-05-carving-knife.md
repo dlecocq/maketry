@@ -8,7 +8,7 @@ all of the tools go to strangers, I held onto a few small things so that they
 might stay in the family. Among them was this small carving knife that was in
 need of repairs.
 
-![]({{ "assets/2014/01/carving-knife/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 It wasn't a particularly amazing carving knife, but it was also a good candidate
 for making a new handle. The tang was short -- maybe just an inch or two. I
@@ -25,6 +25,6 @@ figured it would be easier to flatten the whole thing and polish it before it
 had a handle attached. Once polished, however, some 5-minute epoxy set the blade
 in handsomely:
 
-![]({{ "assets/2014/01/carving-knife/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
-![]({{ "assets/2014/01/carving-knife/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}

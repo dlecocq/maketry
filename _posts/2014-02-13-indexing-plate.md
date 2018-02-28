@@ -12,9 +12,9 @@ came up with an idea to make a plate that has been turned round and then small
 wedges cut out. It should be thin enough to fit on the threads _behind_ the
 chuck, and the wedges deep enough for a locking pin to register in it.
 
-![]({{ "assets/2014/02/indexing-plate/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I found this system to be very stable, and it's easy to make plates in any
 necessary count.
 
-![]({{ "assets/2014/02/indexing-plate/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

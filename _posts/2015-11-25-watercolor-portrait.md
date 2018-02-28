@@ -11,4 +11,4 @@ corresponding frame.
 It was challenging, and I could benefit from a lot of practice, but I've come
 to really like the medium.
 
-![]({{ "assets/2015/11/watercolor-portrait/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

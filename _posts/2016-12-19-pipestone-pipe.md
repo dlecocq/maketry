@@ -15,6 +15,6 @@ I didn't want anything particularly ornate -- just a simple, but pleasing shape.
 Once finished, I put it in the oven and worked some paraffin into the surface to
 give it a nice matte sheen.
 
-![]({{ "assets/2016/12/pipestone-pipe/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
-![]({{ "assets/2016/12/pipestone-pipe/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

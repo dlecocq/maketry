@@ -29,4 +29,4 @@ clearly hooked.
 
 This is the moleskine cover that I made in the class, for my sister-in-law.
 
-![]({{ "assets/2015/11/introductory-leatherworking-class/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

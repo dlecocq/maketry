@@ -6,7 +6,7 @@ In March of 2016, I bought a large maple slab off of Craigslist. I was feeling
 particularly ambitious and thought I would try my hand at making a large slab
 dining room table.
 
-![]({{ "assets/2017/04/slab-dining-table/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 It was sold to me as having been air-dried for 5 years, but I figured I should
 let it sit in my shop for a while to acclimatize. Fast forward to October of
@@ -17,7 +17,7 @@ many spots to really be practical. So I set up a jig to flatten it by using two
 flattened 2x4s made to be perfectly coplanar. I propped up the slab on the floor
 to select the plane I was going to choose and got to routing.
 
-![]({{ "assets/2017/04/slab-dining-table/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 After about 4 or 5 hours of routing, I finally had one face done. Over the
 course of flattening this first face, I had to lift the slab up a couple times
@@ -30,24 +30,24 @@ better than that.
 Another 6-8 hours of routing, and about 50 gallons of shavings later, and I had
 a flattened, thicknessed slab.
 
-![]({{ "assets/2017/04/slab-dining-table/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
 
 There were a number of spots that were pretty punky, so that surface is not
 spectacular at this point.
 
-![]({{ "assets/2017/04/slab-dining-table/04.jpg" | absolute_url }})
+{% include image.html page=page id='04.jpg' %}
 
 With the top roughed out, I turned my attention to the legs, made out of several
 pieces of 8-quarter maple glued up into a panel.
 
-![]({{ "assets/2017/04/slab-dining-table/05.jpg" | absolute_url }})
+{% include image.html page=page id='05.jpg' %}
 
 The legs were going to be splayed, so once I glued up the panels, I chose a
 pleasing angle and tapered them from bottom to top. This angle was also chosen
 as the angle at which the legs would be splayed. I set them on the table held up
 by clamps to match the angle from the bevel gage to see what it would look like.
 
-![]({{ "assets/2017/04/slab-dining-table/06.jpg" | absolute_url }})
+{% include image.html page=page id='06.jpg' %}
 
 I cut 1-1/2"-long tenons into the top of each leg, taking care to make sure that
 they were vertical, rather than in line with the leg. Since they were splayed,
@@ -56,7 +56,7 @@ to the panel. I routed out the corresponding mortise in the underside of the
 table top, which allowed me to set them in, support them, and measure for the
 cross support.
 
-![]({{ "assets/2017/04/slab-dining-table/07.jpg" | absolute_url }})
+{% include image.html page=page id='07.jpg' %}
 
 The cross support, too, was connected to the legs with a mortise and tenon.
 
@@ -88,12 +88,12 @@ so I mixed up a batch of epoxy to paint on thickly over the entire surface to
 soak in. Areas that soaked up their epoxy got extra. This had the pleasant side
 effet of allowing me to see what the finished top would look like.
 
-![]({{ "assets/2017/04/slab-dining-table/08.jpg" | absolute_url }})
+{% include image.html page=page id='08.jpg' %}
 
 Some sections of the slab have just the most beautiful flame pattern, which I
 find quite mesmerizing.
 
-![]({{ "assets/2017/04/slab-dining-table/09.jpg" | absolute_url }})
+{% include image.html page=page id='09.jpg' %}
 
 There were a few small cracks, and so to keep them from spreading, I added some
 butterfly joints. To do so, I first made a template from some 3/8" birch plywood
@@ -104,7 +104,7 @@ ensures that the butterfly and the recess are identical. Identical, that is,
 except for some slightly-rounded corners in the recess which are easily cleaned
 up with a chisel. This is a test fit of one.
 
-![]({{ "assets/2017/04/slab-dining-table/10.jpg" | absolute_url }})
+{% include image.html page=page id='10.jpg' %}
 
 I dyed the legs and cross member black and applied several coats of wipe-on
 polyurethane. After sanding the top and bottom of the slab very diligently, I
@@ -159,6 +159,6 @@ Whenever I have trouble with wiped-or-painted on finishes, I find that switching
 to a spray finish usually solves all my issues. This was no exception. After
 a few coats of spray-on polyurethane, the table has a nice matte sheen.
 
-![]({{ "assets/2017/04/slab-dining-table/11.jpg" | absolute_url }})
+{% include image.html page=page id='11.jpg' %}
 
-![]({{ "assets/2017/04/slab-dining-table/12.jpg" | absolute_url }})
+{% include image.html page=page id='12.jpg' %}

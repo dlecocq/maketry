@@ -42,7 +42,7 @@ it can be attached to a handle.
 Finally, you're ready to use the model exported from SketchUp to upload it to
 Shapeways (or another service) and order a print.
 
-![]({{ "assets/2013/12/branding-iron/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 ## Use
 
@@ -52,4 +52,4 @@ at a time, taking care to try to heat it evenly. After I withdraw it, I test it
 on a scratch piece of wood or leather and continue immersing it in the flame
 until it reliably makes a solid, even mark. Then I mark the intended piece.
 
-![]({{ "assets/2013/12/branding-iron/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

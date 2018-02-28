@@ -10,14 +10,14 @@ ones.
 I decided to turn one, which worked best. It was incredibly hard wood, and did
 not much care to be turned.
 
-![]({{ "assets/2015/01/planter-base/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 The second one was square. I tried to hollow out the center with the router,
 first using the router directly on it with an edge guide to ensure it was a
 consistent distance from the edge. Hollowing out the extra waste, however, did
 not go so well, and led to a very uneven surface.
 
-![]({{ "assets/2015/01/planter-base/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 One shaped, I poured a couple batches of epoxy on each, spreading it out and
 painting it on with a cheap chip brush. A couple of non-slip nubs on the bottom

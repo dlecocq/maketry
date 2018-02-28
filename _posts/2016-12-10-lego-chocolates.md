@@ -14,6 +14,6 @@ These were much better -- very hard, but a pleasing texture as they melted in
 our mouths. We poured the mixture into the lego molds we used for
 [homemade gummies]({{ site.baseurl }}{% post_url 2016-09-10-homemade-gummies %}).
 
-![]({{ "assets/2016/12/lego-chocolates/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
-![]({{ "assets/2016/12/lego-chocolates/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

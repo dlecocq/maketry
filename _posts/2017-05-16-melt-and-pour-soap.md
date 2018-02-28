@@ -12,4 +12,4 @@ My daughter helped me pick out a color and smells, and then we picked out some
 small toys to get trapped inside the individual soaps. That leaves a fun
 surprise for once enough soap has been used up.
 
-![]({{ "assets/2017/05/melt-and-pour-soap/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

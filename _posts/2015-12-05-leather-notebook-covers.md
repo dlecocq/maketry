@@ -15,4 +15,4 @@ using a dull pencil, I traced out the picture, leaving an impression which can
 then be followed with a soldering gun (with a tip that hasn't been used for
 soldering).
 
-![]({{ "assets/2015/12/leather-notebook-covers/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

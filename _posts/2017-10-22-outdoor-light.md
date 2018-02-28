@@ -32,4 +32,4 @@ figured out. By rights, this should have been a very quick project. But with the
 odd wiring, the confusion, and four trips to the hardware store, it took the
 better part of a day. Still, I have lights in my yard.
 
-![]({{ "assets/2017/10/outdoor-light/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

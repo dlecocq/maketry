@@ -13,7 +13,7 @@ I ordered an assortment of flavoring oils from
 surprisingly smoothly, and with a little practice, we churned out about 20
 pounds of candy this season.
 
-![]({{ "assets/2016/12/hard-candy/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 For some flavors, I used a little bit of citric acid, but I found that if I
 added it while the mixture was still in the pan, it gave a really unpleasant,
@@ -27,4 +27,4 @@ easy to separate, and gave a nice consistent size to each piece. The trickiest
 part about it was to pick the right time to do it -- too hot and the candy
 fuses back together, but too cold and it's impossible to make an impression.
 
-![]({{ "assets/2016/12/hard-candy/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

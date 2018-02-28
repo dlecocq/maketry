@@ -7,13 +7,13 @@ to be a substantial undertaking. I went out one afternoon to poke around and see
 what would be involved and the next thing I know, I've moved enough rock and
 bricks around to really be committed.
 
-![]({{ "assets/2017/11/backyard-landscaping/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I had this idea of having a raised garden at the back of the yard that would
 form a curve, with a "stream" of rocks passing by it going from wide to narrow
 and widening out again, leaving the rest of the yard as a patio.
 
-![]({{ "assets/2017/11/backyard-landscaping/02.png" | absolute_url }})
+{% include image.html page=page id='02.png' %}
 
 In the end, that's not how it turned out, but that was the idea that I came up
 with when setting out on this path.
@@ -48,7 +48,7 @@ place went very quickly. Cutting bricks for the corners was also a little
 time-consuming, but with a diamond blade for the angle grinder and a masonry
 chisel, it was doable.
 
-![]({{ "assets/2017/11/backyard-landscaping/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
 
 Before stacking the bricks too high, I needed to fill in dirt as I went. To this
 end, I began digging up the grass. The technique that worked best for me was to
@@ -114,4 +114,4 @@ that came with the rocks, and soon they were looking clean and clear.
 
 After some cleaning and tidying, I ended up with my new yard.
 
-![]({{ "assets/2017/11/backyard-landscaping/04.jpg" | absolute_url }})
+{% include image.html page=page id='04.jpg' %}

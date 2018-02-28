@@ -16,9 +16,9 @@ Sharpening the blade proved tricky. I managed to do sharpen it reasonably
 free-hand, but if this were going to see any sort of regular use, it would need
 a jig made.
 
-![]({{ "assets/2017/04/tiny-plane/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 For the final polishing, a rotary tool with a buffing wheel and some polishing
 compound.
 
-![]({{ "assets/2017/04/tiny-plane/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

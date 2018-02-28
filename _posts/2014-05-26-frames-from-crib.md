@@ -17,7 +17,7 @@ be immediately recognizable as her old crib. (When gluing finished surfaces
 together, it's important to scrape off any finish of the surfaces that will
 have glue in order to ensure proper adhesion.)
 
-![]({{ "assets/2014/05/frames-from-crib/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 While most of the frames were done in this fashion, I discovered an interesting
 pattern while cutting the crib up. Where the slats entered the top and bottom,

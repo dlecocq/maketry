@@ -41,8 +41,8 @@ a few changes and choices:
 
 Here are some candles I recently made for gifts.
 
-![]({{ "assets/2015/11/candlemaking/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 And here is a closeup of the texture of so-called "feather" palm wax:
 
-![]({{ "assets/2015/11/candlemaking/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}

@@ -16,7 +16,7 @@ After completion, I applied paraffin wax with a paper towel and melted it in
 before parting it off, taking care to cup out the bottom slightly so it would
 rest flat.
 
-![]({{ "assets/2013/05/egg-holder/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 One problem was that it was too light to be really effective or stable. I also
 didn't care much for the shape or the finish, and the bottom didn't get any

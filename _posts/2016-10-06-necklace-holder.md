@@ -7,4 +7,4 @@ organized. I had her work with me to pick out some drawer pulls she liked, and
 then she helped me in the workshop to lay out the holes and the angles. A little
 sanding, a little paint, and we had a necklace holder.
 
-![]({{ "assets/2016/10/necklace-holder/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}

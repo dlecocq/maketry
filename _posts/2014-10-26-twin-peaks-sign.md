@@ -15,13 +15,13 @@ them two brackets on the back, in two halves for ease of transportation. I
 painted the whole thing with a latex white paint, which was my first mistake --
 all the subsequent paint had a tendency to bead up on the surface.
 
-![]({{ "assets/2014/10/twin-peaks-sign/01.jpg" | absolute_url }})
+{% include image.html page=page id='01.jpg' %}
 
 I made a grid in pencil, and made a similar grid on one of my reference photos.
 With both grids in place, I could mark out where various elements and letters
 appeared appropriately.
 
-![]({{ "assets/2014/10/twin-peaks-sign/02.jpg" | absolute_url }})
+{% include image.html page=page id='02.jpg' %}
 
 I added sky, mountains, trees, and letters with tempera paints. This was my
 second mistake. I got tempera paints because I thought that they'd see a lot of
@@ -29,9 +29,9 @@ mileage with my daughter to play with after this project. Turns out the colors
 were very pale, difficult to work with, and I should have just shelled out for
 acrylics. Lesson learned.
 
-![]({{ "assets/2014/10/twin-peaks-sign/03.jpg" | absolute_url }})
+{% include image.html page=page id='03.jpg' %}
 
 Even so, it turned out alright. It was well-received by my team, and it went up
 in my living room after the event.
 
-![]({{ "assets/2014/10/twin-peaks-sign/04.jpg" | absolute_url }})
+{% include image.html page=page id='04.jpg' %}
